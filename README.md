@@ -1,2 +1,1 @@
-# FCC-TimeStamp-Microservice
-https://www.freecodecamp.com/challenges/timestamp-microservice
+# Backend Challenges boilerplate - package.json
